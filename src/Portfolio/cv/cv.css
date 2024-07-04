@@ -1,0 +1,6 @@
+.b{
+background:linear-gradient(to right,NavajoWhite,Lime);
+cursor: pointer;
+transition-duration: 1000ms;
+transform: translateX(620px);
+}

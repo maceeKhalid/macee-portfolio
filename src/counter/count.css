@@ -1,0 +1,60 @@
+.formatH{
+    text-align:center;
+    text-decoration: underline;
+    cursor: pointer;
+    margin-top: 20px;
+    transition-duration: 0s;
+
+}
+.formatH:hover{
+    color: rgb(201, 241, 21);
+    transform: translateY(-0.75rem);
+}
+.formatP{
+    margin-left: 500px;
+    text-decoration: underline;
+    text-decoration-color: rgb(166, 235, 5);
+}
+.yes{
+    animation-name: color;
+    animation-duration: 0.5s;
+    animation-iteration-count: infinite;
+}
+@keyframes color{
+0%{
+    background: red;color:rgb(25, 200, 206)92, 205)41, 205)41, 205)41, 205)
+}
+20%{
+    background: yellow;color:blue;
+}
+40%{
+    background: magenta;color:aliceblue;
+}
+}
+.countFormat{
+    text-align: center;
+    margin-top: 20px;
+    text-shadow: 12px 12px 30px;
+    cursor: pointer;
+}
+.btnFormat{
+    color: yellow;
+    text-transform: uppercase;
+    margin-left: 709px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

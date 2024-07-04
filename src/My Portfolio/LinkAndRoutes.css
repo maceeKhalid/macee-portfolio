@@ -1,0 +1,27 @@
+.ul{
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+    gap: 2rem;
+    margin-left:950px;
+}
+.NavLink{
+    text-decoration: none;
+    color:black;
+    transition-duration: 1000ms;
+}
+.NavLink.active{
+    text-decoration: underline;
+    font-weight: bold;
+    color:rgb(46, 15, 221);
+}
+.NavLink:hover{
+    background: grey;
+    border-radius: 5px;
+    padding:10px 20px;
+}
+.li{
+   letter-spacing: 2px;
+   font-size: large;
+   color:black; 
+}
